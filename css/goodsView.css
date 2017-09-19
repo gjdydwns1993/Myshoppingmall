@@ -1,0 +1,9 @@
+
+section #goodsDiv{
+  float: left;
+  margin-left: 20px;
+}
+section #pageNumber{
+  clear:both;
+  text-align: center;
+}
